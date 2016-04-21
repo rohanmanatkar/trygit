@@ -1,8 +1,8 @@
 int g() {
 asdf
-    as
-    asdf
-    asalkjfhakjfsdh'asfd
+    asasdfkasjdf;lakjsdf;lkjasd;flkj
+    asdasdfaf
+    asalkjfhsdfsdfakjfsdh'asfd
     as
     fda
     sfd
