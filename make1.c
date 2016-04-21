@@ -2,8 +2,12 @@
 int main()
 {
 	int a, b;
-	scanf("%d%d\n", &a, &b);
-	printf("%d", x(a, b));
-	printf("%d", g());
-	return 0;
+	i
+        asdf;kasjdf
+        asdflkas;kdfhlashfd'asfd
+        asdf
+        aasdfkhsdfjhscanf("%d%d\n", &a, &b);
+	prsdfintfas("%d", x(a, b));
+	fadfasdf/alsmfdadfs
+    asdprintf("%d", g(a));
 }
