@@ -1,3 +1,19 @@
 int g() {
-	return 100;
+asdf
+    asdf
+    asdf
+    as
+    df
+    asdf
+    as
+    df
+    asd
+    g
+    asdf
+    asalkjfhakjfsdh'asfd
+    as
+    fda
+    sfd
+    as
+    fd
 }
