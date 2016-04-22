@@ -1,7 +1,20 @@
 #include<stdio.h>
 int x(int x, int y)
 {
+<<<<<<< HEAD
+	asdasdsadflasjdflkasjdf
+        alsjdkf;las
+        as
+        df
+        asdf
+        as
+        df
+        sd;
+=======
 	asdasdsd;
+	aerwerer;
+	zxczvzcvzvzcvzcvzcvzcv;
+>>>>>>> 9d01d03d8c79e9574ffb3b6a84c247c66f885d94
 	bullshit;
 	return x ;
 }
